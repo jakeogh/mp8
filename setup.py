@@ -30,6 +30,7 @@ config = {
     "entry_points": {
         "console_scripts": [
             "mp8=mp8.mp8:main",
+            "mpecho=mp8.mp8:main",
         ],
     },
 }
